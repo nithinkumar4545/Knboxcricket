@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Knboxcricket.com - Premier Box Cricket Booking",
+  "description": "Premium online booking platform for box cricket enthusiasts. Book your slots, manage teams, and enjoy high-quality turf experiences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
